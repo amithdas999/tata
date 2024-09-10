@@ -1,0 +1,71 @@
+2024-06-29 13:48:50,065 INFO o.a.j.u.JMeterUtils: Setting Locale to en_IN
+2024-06-29 13:48:50,088 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-06-29 13:48:50,089 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-06-29 13:48:50,089 INFO o.a.j.JMeter: Loading additional properties from: C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\user.properties
+2024-06-29 13:48:50,097 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2024-06-29 13:48:50,097 INFO o.a.j.JMeter: Version 5.6.3
+2024-06-29 13:48:50,097 INFO o.a.j.JMeter: java.version=21.0.3
+2024-06-29 13:48:50,097 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2024-06-29 13:48:50,097 INFO o.a.j.JMeter: os.name=Windows 11
+2024-06-29 13:48:50,097 INFO o.a.j.JMeter: os.arch=amd64
+2024-06-29 13:48:50,097 INFO o.a.j.JMeter: os.version=10.0
+2024-06-29 13:48:50,097 INFO o.a.j.JMeter: file.encoding=UTF-8
+2024-06-29 13:48:50,097 INFO o.a.j.JMeter: java.awt.headless=true
+2024-06-29 13:48:50,097 INFO o.a.j.JMeter: Max memory     =2061500416
+2024-06-29 13:48:50,097 INFO o.a.j.JMeter: Available Processors =8
+2024-06-29 13:48:50,109 INFO o.a.j.JMeter: Default Locale=English (India)
+2024-06-29 13:48:50,109 INFO o.a.j.JMeter: JMeter  Locale=English (India)
+2024-06-29 13:48:50,109 INFO o.a.j.JMeter: JMeterHome=C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3
+2024-06-29 13:48:50,109 INFO o.a.j.JMeter: user.dir  =C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2024-06-29 13:48:50,110 INFO o.a.j.JMeter: PWD       =C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2024-06-29 13:48:50,117 INFO o.a.j.JMeter: IP: 192.168.112.78 Name: AmithDas FullName: AmithDas
+2024-06-29 13:48:50,128 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\wipro'
+2024-06-29 13:48:50,131 INFO o.a.j.r.d.ReportGenerator: ReportGenerator will use for Parsing the separator: ','
+2024-06-29 13:48:50,131 INFO o.a.j.r.d.ReportGenerator: Will only generate report from results file: C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\abhishek15.jtl
+2024-06-29 13:48:50,131 INFO o.a.j.r.d.ReportGenerator: Reading report generator properties from: C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\reportgenerator.properties
+2024-06-29 13:48:50,133 INFO o.a.j.r.d.ReportGenerator: Merging with JMeter properties
+2024-06-29 13:48:50,136 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.temp_dir' not found, using default value 'temp' instead.
+2024-06-29 13:48:50,140 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.apdex_per_transaction' not found, using default value 'null' instead.
+2024-06-29 13:48:50,149 INFO o.a.j.r.c.ReportGeneratorConfiguration: apdex_per_transaction is empty, not APDEX per transaction customization
+2024-06-29 13:48:50,149 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.sample_filter' not found, using default value 'null' instead.
+2024-06-29 13:48:50,149 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.report_title' not found, using default value 'null' instead.
+2024-06-29 13:48:50,150 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.start_date' not found, using default value 'null' instead.
+2024-06-29 13:48:50,150 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.end_date' not found, using default value 'null' instead.
+2024-06-29 13:48:50,150 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.date_format' not found, using default value 'null' instead.
+2024-06-29 13:48:50,161 INFO o.a.j.r.c.ReportGeneratorConfiguration: Will use date range start date: null, end date: null
+2024-06-29 13:48:50,165 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.totalTPS.exclude_controllers' not found, using default value 'false' instead.
+2024-06-29 13:48:50,166 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.activeThreadsOverTime.exclude_controllers' not found, using default value 'false' instead.
+2024-06-29 13:48:50,166 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.timeVsThreads.exclude_controllers' not found, using default value 'false' instead.
+2024-06-29 13:48:50,166 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimeDistribution.exclude_controllers' not found, using default value 'false' instead.
+2024-06-29 13:48:50,166 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.transactionsPerSecond.exclude_controllers' not found, using default value 'false' instead.
+2024-06-29 13:48:50,166 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentiles.exclude_controllers' not found, using default value 'false' instead.
+2024-06-29 13:48:50,166 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentilesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2024-06-29 13:48:50,166 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2024-06-29 13:48:50,167 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.connectTimeOverTime.exclude_controllers' not found, using default value 'false' instead.
+2024-06-29 13:48:50,167 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.latenciesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2024-06-29 13:48:50,168 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.filters_only_sample_series' not found, using default value 'true' instead.
+2024-06-29 13:48:50,168 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.series_filter' not found, using default value '' instead.
+2024-06-29 13:48:50,168 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.show_controllers_only' not found, using default value 'false' instead.
+2024-06-29 13:48:50,168 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.filters_only_sample_series' not found, using default value 'true' instead.
+2024-06-29 13:48:50,168 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.series_filter' not found, using default value '' instead.
+2024-06-29 13:48:50,168 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.show_controllers_only' not found, using default value 'false' instead.
+2024-06-29 13:48:50,406 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2024-06-29 13:48:50,441 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2024-06-29 13:48:50,443 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2024-06-29 13:48:50,462 WARN o.a.j.s.CSVSaveService: Unknown column name <?xml version="1.0" encoding="UTF-8"?>
+2024-06-29 13:48:50,468 WARN o.a.j.r.c.CsvSampleReader: File 'C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\abhishek15.jtl' does not contain the field names header, ensure the jmeter.save.saveservice.* properties are the same as when the CSV file was created or the file may be read incorrectly when generating report
+2024-06-29 13:48:50,469 ERROR o.a.j.JMeter: An error occurred: 
+org.apache.jmeter.report.core.SampleException: Could not read sample <0>
+	at org.apache.jmeter.report.core.CsvSampleReader.nextSample(CsvSampleReader.java:190) ~[ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.report.core.CsvSampleReader.<init>(CsvSampleReader.java:135) ~[ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.report.core.CsvSampleReader.<init>(CsvSampleReader.java:87) ~[ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.report.processor.CsvFileSampleSource.<init>(CsvFileSampleSource.java:112) ~[ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.report.dashboard.ReportGenerator.generate(ReportGenerator.java:210) ~[ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.JMeter.start(JMeter.java:485) [ApacheJMeter_core.jar:5.6.3]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.apache.jmeter.NewDriver.main(NewDriver.java:259) [ApacheJMeter.jar:5.6.3]
+Caused by: java.io.IOException: Cannot have quote-char in plain field:[<testResults version="]
+	at org.apache.jmeter.save.CSVSaveService.csvReadFile(CSVSaveService.java:1049) ~[ApacheJMeter_core.jar:5.6.3]
+	at org.apache.jmeter.report.core.CsvSampleReader.nextSample(CsvSampleReader.java:182) ~[ApacheJMeter_core.jar:5.6.3]
+	... 8 more

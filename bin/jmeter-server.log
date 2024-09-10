@@ -1,0 +1,213 @@
+2024-07-29 12:05:35,576 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2024-07-29 12:05:35,598 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-07-29 12:05:35,600 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-07-29 12:05:35,660 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2024-07-29 12:05:35,660 INFO o.a.j.JMeter: Version 5.6.3
+2024-07-29 12:05:35,660 INFO o.a.j.JMeter: java.version=21.0.3
+2024-07-29 12:05:35,660 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2024-07-29 12:05:35,660 INFO o.a.j.JMeter: os.name=Windows 11
+2024-07-29 12:05:35,660 INFO o.a.j.JMeter: os.arch=amd64
+2024-07-29 12:05:35,660 INFO o.a.j.JMeter: os.version=10.0
+2024-07-29 12:05:35,660 INFO o.a.j.JMeter: file.encoding=UTF-8
+2024-07-29 12:05:35,660 INFO o.a.j.JMeter: java.awt.headless=true
+2024-07-29 12:05:35,661 INFO o.a.j.JMeter: Max memory     =1073741824
+2024-07-29 12:05:35,661 INFO o.a.j.JMeter: Available Processors =8
+2024-07-29 12:05:35,672 INFO o.a.j.JMeter: Default Locale=English (EN)
+2024-07-29 12:05:35,672 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2024-07-29 12:05:35,673 INFO o.a.j.JMeter: JMeterHome=C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3
+2024-07-29 12:05:35,673 INFO o.a.j.JMeter: user.dir  =C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2024-07-29 12:05:35,673 INFO o.a.j.JMeter: PWD       =C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2024-07-29 12:05:35,686 INFO o.a.j.JMeter: IP: 192.168.60.78 Name: AmithDas FullName: AmithDas
+2024-07-29 12:05:35,707 INFO o.a.j.r.RmiUtils: Disabling SSL for RMI as server.rmi.ssl.disable is set to 'true'
+2024-07-29 12:05:35,707 INFO o.a.j.r.RmiUtils: Disabling SSL for RMI as server.rmi.ssl.disable is set to 'true'
+2024-07-29 12:05:35,887 INFO o.a.j.e.RemoteJMeterEngineImpl: Starting backing engine on 1099
+2024-07-29 12:05:35,887 INFO o.a.j.r.RmiUtils: System property 'java.rmi.server.hostname' is not defined, using localHost address
+2024-07-29 12:05:35,887 INFO o.a.j.r.RmiUtils: Local IP address=192.168.60.78
+2024-07-29 12:05:35,888 INFO o.a.j.e.RemoteJMeterEngineImpl: IP address is a site-local address; this may cause problems with remote access.
+	Can be overridden by defining the system property 'java.rmi.server.hostname' - see jmeter-server script file
+2024-07-29 12:05:35,888 INFO o.a.j.e.RemoteJMeterEngineImpl: Creating RMI registry (server.rmi.create=true)
+2024-07-29 12:05:35,888 INFO o.a.j.r.RmiUtils: Disabling SSL for RMI as server.rmi.ssl.disable is set to 'true'
+2024-07-29 12:05:35,888 INFO o.a.j.r.RmiUtils: Disabling SSL for RMI as server.rmi.ssl.disable is set to 'true'
+2024-07-29 12:05:35,896 INFO o.a.j.e.RemoteJMeterEngineImpl: Bound to RMI registry on port 1099
+2024-07-29 12:07:06,526 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2024-07-29 12:07:06,538 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2024-07-29 12:07:06,564 INFO o.a.j.s.BatchSampleSender: Using batching for this run. Thresholds: num=100, time=60000
+2024-07-29 12:07:06,565 INFO o.a.j.s.DataStrippingSampleSender: Using DataStrippingSampleSender for this run with stripAlsoOnError: true
+2024-07-29 12:07:06,671 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-07-29 12:07:06,671 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-07-29 12:07:06,672 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-07-29 12:07:06,672 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-07-29 12:07:06,672 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2024-07-29 12:07:06,672 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2024-07-29 12:07:06,809 INFO o.a.j.e.RemoteJMeterEngineImpl: Creating JMeter engine on host 192.168.60.78 base '.'
+2024-07-29 12:07:06,809 INFO o.a.j.e.RemoteJMeterEngineImpl: Remote client host: 192.168.60.78
+2024-07-29 12:07:06,815 INFO o.a.j.s.FileServer: Default base='C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin'
+2024-07-29 12:07:06,818 INFO o.a.j.s.FileServer: Set new base='.'
+2024-07-29 12:07:06,822 INFO o.a.j.e.StandardJMeterEngine: Applying properties {}
+2024-07-29 12:07:06,824 INFO o.a.j.e.RemoteJMeterEngineImpl: Running test
+2024-07-29 12:07:06,846 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-07-29 12:07:06,849 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-07-29 12:07:06,849 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-07-29 12:07:06,878 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2024-07-29 12:07:06,879 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2024-07-29 12:07:07,031 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-parallel-0.12.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-07-29 12:07:07,053 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-mergeresults-2.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-07-29 12:07:07,064 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-functions-2.2.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-07-29 12:07:07,076 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-07-29 12:07:07,324 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-dummy-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-07-29 12:07:07,335 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10 (1).jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-07-29 12:07:07,340 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\amitd\OneDrive\Desktop\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-perfmon-2.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2024-07-29 12:07:07,880 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2024-07-29 12:07:07,881 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2024-07-29 12:07:07,881 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-07-29 12:07:07,881 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2024-07-29 12:07:07,899 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-07-29 12:07:07,899 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-07-29 12:07:07,910 INFO o.a.j.t.JMeterThread: Thread started: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:07:07,954 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = AmithDas
+2024-07-29 12:07:07,968 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2024-07-29 12:07:07,971 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2024-07-29 12:07:07,972 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2024-07-29 12:07:07,972 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2024-07-29 12:07:07,972 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2024-07-29 12:07:08,271 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2024-07-29 12:07:08,285 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2024-07-29 12:07:08,285 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2024-07-29 12:07:08,712 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2024-07-29 12:07:08,719 INFO o.a.j.u.SSLManager: KeyStore created OK
+2024-07-29 12:07:08,719 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2024-07-29 12:07:15,903 INFO o.a.j.s.TestAction: Stopping current thread from element Flow Control Action
+2024-07-29 12:07:15,904 INFO o.a.j.t.JMeterThread: Stopping: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:07:15,904 INFO o.a.j.t.JMeterThread: Thread finished: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:07:15,908 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-07-29 12:07:15,908 INFO o.a.j.s.DataStrippingSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:07:15,910 INFO o.a.j.s.BatchSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:07:15,966 INFO o.a.j.e.StandardJMeterEngine: Test has ended on host 192.168.60.78 
+2024-07-29 12:07:53,103 INFO o.a.j.s.BatchSampleSender: Using batching for this run. Thresholds: num=100, time=60000
+2024-07-29 12:07:53,104 INFO o.a.j.s.DataStrippingSampleSender: Using DataStrippingSampleSender for this run with stripAlsoOnError: true
+2024-07-29 12:07:53,116 INFO o.a.j.e.RemoteJMeterEngineImpl: Creating JMeter engine on host 192.168.60.78 base '.'
+2024-07-29 12:07:53,116 INFO o.a.j.e.RemoteJMeterEngineImpl: Remote client host: 192.168.60.78
+2024-07-29 12:07:53,117 INFO o.a.j.s.FileServer: Set new base='.'
+2024-07-29 12:07:53,119 INFO o.a.j.e.RemoteJMeterEngineImpl: Cleaning previously set properties: {}
+2024-07-29 12:07:53,119 INFO o.a.j.e.StandardJMeterEngine: Applying properties {}
+2024-07-29 12:07:53,120 INFO o.a.j.e.RemoteJMeterEngineImpl: Running test
+2024-07-29 12:07:53,168 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-07-29 12:07:53,171 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-07-29 12:07:53,287 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2024-07-29 12:07:53,287 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2024-07-29 12:07:53,287 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-07-29 12:07:53,287 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2024-07-29 12:07:53,294 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-07-29 12:07:53,294 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-07-29 12:07:53,295 INFO o.a.j.t.JMeterThread: Thread started: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:07:58,182 INFO o.a.j.t.JMeterThread: Thread is done: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:07:58,183 INFO o.a.j.t.JMeterThread: Thread finished: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:07:58,193 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-07-29 12:07:58,194 INFO o.a.j.s.DataStrippingSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:07:58,194 INFO o.a.j.s.BatchSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:07:58,229 INFO o.a.j.e.StandardJMeterEngine: Test has ended on host 192.168.60.78 
+2024-07-29 12:09:03,884 INFO o.a.j.s.BatchSampleSender: Using batching for this run. Thresholds: num=100, time=60000
+2024-07-29 12:09:03,884 INFO o.a.j.s.DataStrippingSampleSender: Using DataStrippingSampleSender for this run with stripAlsoOnError: true
+2024-07-29 12:09:03,903 INFO o.a.j.e.RemoteJMeterEngineImpl: Creating JMeter engine on host 192.168.60.78 base '.'
+2024-07-29 12:09:03,903 INFO o.a.j.e.RemoteJMeterEngineImpl: Remote client host: 192.168.60.78
+2024-07-29 12:09:03,903 INFO o.a.j.s.FileServer: Set new base='.'
+2024-07-29 12:09:03,905 INFO o.a.j.e.RemoteJMeterEngineImpl: Cleaning previously set properties: {}
+2024-07-29 12:09:03,906 INFO o.a.j.e.StandardJMeterEngine: Applying properties {}
+2024-07-29 12:09:03,906 INFO o.a.j.e.RemoteJMeterEngineImpl: Running test
+2024-07-29 12:09:03,910 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-07-29 12:09:04,028 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-07-29 12:09:04,092 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2024-07-29 12:09:04,093 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2024-07-29 12:09:04,093 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-07-29 12:09:04,093 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2024-07-29 12:09:04,098 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-07-29 12:09:04,099 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-07-29 12:09:04,106 INFO o.a.j.t.JMeterThread: Thread started: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:09:08,370 INFO o.a.j.t.JMeterThread: Thread is done: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:09:08,372 INFO o.a.j.t.JMeterThread: Thread finished: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:09:08,399 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-07-29 12:09:08,399 INFO o.a.j.s.DataStrippingSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:09:08,399 INFO o.a.j.s.BatchSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:09:08,420 INFO o.a.j.e.StandardJMeterEngine: Test has ended on host 192.168.60.78 
+2024-07-29 12:22:12,489 INFO o.a.j.s.BatchSampleSender: Using batching for this run. Thresholds: num=100, time=60000
+2024-07-29 12:22:12,490 INFO o.a.j.s.DataStrippingSampleSender: Using DataStrippingSampleSender for this run with stripAlsoOnError: true
+2024-07-29 12:22:12,543 INFO o.a.j.s.BatchSampleSender: Using batching for this run. Thresholds: num=100, time=60000
+2024-07-29 12:22:12,543 INFO o.a.j.s.DataStrippingSampleSender: Using DataStrippingSampleSender for this run with stripAlsoOnError: true
+2024-07-29 12:22:12,550 INFO o.a.j.e.RemoteJMeterEngineImpl: Creating JMeter engine on host 192.168.60.78 base '.'
+2024-07-29 12:22:12,551 INFO o.a.j.e.RemoteJMeterEngineImpl: Remote client host: 192.168.60.78
+2024-07-29 12:22:12,551 INFO o.a.j.s.FileServer: Set new base='.'
+2024-07-29 12:22:12,553 INFO o.a.j.e.RemoteJMeterEngineImpl: Cleaning previously set properties: {}
+2024-07-29 12:22:12,553 INFO o.a.j.e.StandardJMeterEngine: Applying properties {}
+2024-07-29 12:22:12,554 INFO o.a.j.e.RemoteJMeterEngineImpl: Running test
+2024-07-29 12:22:12,558 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-07-29 12:22:12,560 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-07-29 12:22:12,608 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2024-07-29 12:22:12,608 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2024-07-29 12:22:12,608 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-07-29 12:22:12,609 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2024-07-29 12:22:12,613 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-07-29 12:22:12,614 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-07-29 12:22:12,615 INFO o.a.j.t.JMeterThread: Thread started: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:22:16,555 INFO o.a.j.s.TestAction: Stopping current thread from element Flow Control Action
+2024-07-29 12:22:16,555 INFO o.a.j.t.JMeterThread: Stopping: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:22:16,555 INFO o.a.j.t.JMeterThread: Thread finished: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:22:16,564 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-07-29 12:22:16,564 INFO o.a.j.s.DataStrippingSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:22:16,564 INFO o.a.j.s.BatchSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:22:16,601 INFO o.a.j.s.DataStrippingSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:22:16,601 INFO o.a.j.s.BatchSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:22:16,628 INFO o.a.j.e.StandardJMeterEngine: Test has ended on host 192.168.60.78 
+2024-07-29 12:27:51,501 INFO o.a.j.s.BatchSampleSender: Using batching for this run. Thresholds: num=100, time=60000
+2024-07-29 12:27:51,501 INFO o.a.j.s.DataStrippingSampleSender: Using DataStrippingSampleSender for this run with stripAlsoOnError: true
+2024-07-29 12:27:51,582 INFO o.a.j.s.BatchSampleSender: Using batching for this run. Thresholds: num=100, time=60000
+2024-07-29 12:27:51,582 INFO o.a.j.s.DataStrippingSampleSender: Using DataStrippingSampleSender for this run with stripAlsoOnError: true
+2024-07-29 12:27:51,590 INFO o.a.j.e.RemoteJMeterEngineImpl: Creating JMeter engine on host 192.168.60.78 base '.'
+2024-07-29 12:27:51,590 INFO o.a.j.e.RemoteJMeterEngineImpl: Remote client host: 192.168.60.78
+2024-07-29 12:27:51,590 INFO o.a.j.s.FileServer: Set new base='.'
+2024-07-29 12:27:51,591 INFO o.a.j.e.RemoteJMeterEngineImpl: Cleaning previously set properties: {}
+2024-07-29 12:27:51,592 INFO o.a.j.e.StandardJMeterEngine: Applying properties {}
+2024-07-29 12:27:51,592 INFO o.a.j.e.RemoteJMeterEngineImpl: Running test
+2024-07-29 12:27:51,593 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-07-29 12:27:51,593 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-07-29 12:27:51,635 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2024-07-29 12:27:51,636 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2024-07-29 12:27:51,636 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-07-29 12:27:51,636 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2024-07-29 12:27:51,637 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-07-29 12:27:51,637 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-07-29 12:27:51,638 INFO o.a.j.t.JMeterThread: Thread started: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:27:56,071 INFO o.a.j.t.JMeterThread: Thread is done: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:27:56,072 INFO o.a.j.t.JMeterThread: Thread finished: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:27:56,081 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-07-29 12:27:56,081 INFO o.a.j.s.DataStrippingSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:27:56,081 INFO o.a.j.s.BatchSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:27:56,145 INFO o.a.j.s.DataStrippingSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:27:56,145 INFO o.a.j.s.BatchSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:27:56,162 INFO o.a.j.e.StandardJMeterEngine: Test has ended on host 192.168.60.78 
+2024-07-29 12:36:48,884 INFO o.a.j.s.BatchSampleSender: Using batching for this run. Thresholds: num=100, time=60000
+2024-07-29 12:36:48,885 INFO o.a.j.s.DataStrippingSampleSender: Using DataStrippingSampleSender for this run with stripAlsoOnError: true
+2024-07-29 12:36:48,971 INFO o.a.j.s.BatchSampleSender: Using batching for this run. Thresholds: num=100, time=60000
+2024-07-29 12:36:48,971 INFO o.a.j.s.DataStrippingSampleSender: Using DataStrippingSampleSender for this run with stripAlsoOnError: true
+2024-07-29 12:36:49,018 INFO o.a.j.e.RemoteJMeterEngineImpl: Creating JMeter engine on host 192.168.60.78 base '.'
+2024-07-29 12:36:49,019 INFO o.a.j.e.RemoteJMeterEngineImpl: Remote client host: 192.168.60.78
+2024-07-29 12:36:49,022 INFO o.a.j.s.FileServer: Set new base='.'
+2024-07-29 12:36:49,043 INFO o.a.j.e.RemoteJMeterEngineImpl: Cleaning previously set properties: {}
+2024-07-29 12:36:49,044 INFO o.a.j.e.StandardJMeterEngine: Applying properties {}
+2024-07-29 12:36:49,045 INFO o.a.j.e.RemoteJMeterEngineImpl: Running test
+2024-07-29 12:36:49,051 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-07-29 12:36:49,052 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-07-29 12:36:49,200 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2024-07-29 12:36:49,201 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2024-07-29 12:36:49,201 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-07-29 12:36:49,202 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2024-07-29 12:36:49,207 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-07-29 12:36:49,207 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-07-29 12:36:49,215 INFO o.a.j.t.JMeterThread: Thread started: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:36:53,799 INFO o.a.j.t.JMeterThread: Thread is done: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:36:53,800 INFO o.a.j.t.JMeterThread: Thread finished: 192.168.60.78-Thread Group 1-1
+2024-07-29 12:36:53,807 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-07-29 12:36:53,807 INFO o.a.j.s.DataStrippingSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:36:53,808 INFO o.a.j.s.BatchSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:36:53,866 INFO o.a.j.s.DataStrippingSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:36:53,866 INFO o.a.j.s.BatchSampleSender: Test Ended on 192.168.60.78
+2024-07-29 12:36:53,879 INFO o.a.j.e.StandardJMeterEngine: Test has ended on host 192.168.60.78 
